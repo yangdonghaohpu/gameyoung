@@ -1,7 +1,7 @@
 {
     "versionCode": 2,
     "versionName":"1.0.0",
-    "updateMsg": "1.新增列表展示；\n2.修复bug，优化体验;",
+    "updateMsg": "1.新增列表展示；\n2.修复bug，优化体验;\n是否下载更新？",
     "msg": "发现新版本！",
     "downloadUrl":"https://raw.githubusercontent.com/yangdonghaohpu/gameyoung/master/app-debug.apk"
 }
