@@ -1,5 +1,6 @@
 {
     "versionCode": 1,
+    "versionName":"1.0",
     "updateMsg": "1.新增列表展示；\n2.修复bug，优化体验;",
     "msg": "发现新版本！",
     "downloadUrl":"https://raw.githubusercontent.com/yangdonghaohpu/testgit/master/%E7%9C%9F%E7%9B%B8%E5%8F%96%E8%AF%812.0.0.apk"
