@@ -4,5 +4,5 @@
     "updateMsg": "1.新增列表展示；\n2.修复bug，优化体验;\n是否下载更新？",
     "msg": "发现新版本！",
     "downloadUrl":"https://raw.githubusercontent.com/yangdonghaohpu/gameyoung/master/app-debug.apk",
-    "expalin":"说明：\n部分手机用户开启通知栏按钮需要到手机设置的通知权限管理中找到该应用予以授权。"
+    "explain":"说明：\n部分手机用户开启通知栏按钮需要到手机设置的通知权限管理中找到该应用予以授权。"
 }
